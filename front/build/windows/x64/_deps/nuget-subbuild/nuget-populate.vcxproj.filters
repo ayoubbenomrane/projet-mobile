@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\eaa95cd43352661db1b8e26f7fe3cb77\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\eaa95cd43352661db1b8e26f7fe3cb77\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\eaa95cd43352661db1b8e26f7fe3cb77\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\eaa95cd43352661db1b8e26f7fe3cb77\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\eaa95cd43352661db1b8e26f7fe3cb77\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\eaa95cd43352661db1b8e26f7fe3cb77\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\eaa95cd43352661db1b8e26f7fe3cb77\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\eaa95cd43352661db1b8e26f7fe3cb77\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\eaa95cd43352661db1b8e26f7fe3cb77\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\2daa4918d345d66028ef6b30ead796b3\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\264f73a9d66bd050e197734644cc587b\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\User\Desktop\finaaaaaal\wassalni\front wassalni\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{53BC8138-9677-31CB-81CA-DABE9C5CB144}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
